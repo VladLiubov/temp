@@ -4,9 +4,6 @@
     "details": [
       {
         "appID": "V577MLBEAG.dom.ria",
- 	      "components": [
-		        {"/": "/temp/"}
-	      ],
         "paths": [
             "*"
         ]
