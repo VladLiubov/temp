@@ -3,10 +3,12 @@
     "apps": [ ],
     "details": [
       {
-        "appID": "V577MLBEAG.dom.ria",
+        "appID": "V577MLBEAG.dom.ria.test",
+ 	      "components": [
+		        {"/": "/temp/"}
+	      ],
         "paths": [
-          "/temp/",
-          "/temp/*"
+            "/temp/"
         ]
       }
     ]
