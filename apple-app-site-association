@@ -19,7 +19,8 @@
           "/uk/arenda-kvartir/*",
           "/prodazha-kvartir/*",
           "/uk/prodazha-kvartir/*",
-          "/temp/"
+          "/temp/",
+          "/temp/*",
         ]
       }
     ]
